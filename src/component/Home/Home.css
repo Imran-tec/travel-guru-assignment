@@ -1,0 +1,20 @@
+.homeContainer{
+  width: 100%;
+  margin: 0;
+   padding: 0;
+    height: 100vh;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),url('../../Images//Image/Rectangle\ 1.png');
+    color: #fff;
+
+}
+.homeImage{
+    display: flex;
+   margin-top: 12vh;
+    
+}
+.homeDescription{
+    
+    margin-top: 12vh;
+}

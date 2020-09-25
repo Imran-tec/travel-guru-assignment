@@ -1,0 +1,30 @@
+.book_Container{
+   height: 100vh;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),url('../../Images//Image/Rectangle\ 1.png');
+}
+.placeDescription{
+    color: white;
+    margin-top: 20vh;
+}
+.from_Container{
+   margin-top: 20vh;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.btn{
+  background-color: rgba(249, 165, 26, 1);
+    margin: auto;
+    display: block;
+
+    background: #F9A51A;
+    
+}
+.link:hover{
+    text-decoration: none;
+    
+}

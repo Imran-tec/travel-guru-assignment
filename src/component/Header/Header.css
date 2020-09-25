@@ -1,0 +1,16 @@
+.logo{
+    width: 120px;
+}
+
+.nav_container{
+    margin: 20px;
+    padding: 5px;
+}
+.nav_container a{
+    margin: 10px;
+    color: #fff;
+}
+.nav_container a:hover{
+    color: blanchedalmond;
+    text-decoration: none;
+}
